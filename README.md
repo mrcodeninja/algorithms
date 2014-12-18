@@ -1,6 +1,4 @@
-[ci_build]: https://travis-ci.org/mrcodeninja/algorithms.svg?branch=master
-
-![Continuous Build Status][ci_build]
+[![Build Status](https://travis-ci.org/mrcodeninja/algorithms.svg?branch=master)](https://travis-ci.org/mrcodeninja/algorithms)
 
 Algorithms
 ==========
